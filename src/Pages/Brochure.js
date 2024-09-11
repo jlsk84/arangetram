@@ -4,25 +4,25 @@ function Brochure() {
         <div className="Brochure">
             <h1>Arangetram Brochure</h1>
             <center>
-            <div id="carouselExampleAutoplaying" class="carousel slide Img-sizer" data-bs-ride="carousel">
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="1.png" class="d-block w-100 Img-sizer" alt="Page 1"/>
+                <img src="1.png" class="d-block w-100" alt="Page 1"/>
               </div>
               <div class="carousel-item">
-                <img src="2.png" class="d-block w-100 Img-sizer" alt="Page 2"/>
+                <img src="2.png" class="d-block w-100" alt="Page 2"/>
               </div>
               <div class="carousel-item">
-                <img src="3.png" class="d-block w-100 Img-sizer" alt="Page 3"/>
+                <img src="3.png" class="d-block w-100" alt="Page 3"/>
               </div>
               <div class="carousel-item">
-                <img src="4.png" class="d-block w-100 Img-sizer" alt="Page 4"/>
+                <img src="4.png" class="d-block w-100" alt="Page 4"/>
               </div>
               <div class="carousel-item">
-                <img src="5.png" class="d-block w-100 Img-sizer" alt="Page 5"/>
+                <img src="5.png" class="d-block w-100" alt="Page 5"/>
               </div>
               <div class="carousel-item">
-                <img src="6.png" class="d-block w-100 Img-sizer" alt="Page 6"/>
+                <img src="6.png" class="d-block w-100" alt="Page 6"/>
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
