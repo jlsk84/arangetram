@@ -33,6 +33,10 @@
   max-width: 80%;
 }
 
+.JJ-font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

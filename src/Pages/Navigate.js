@@ -7,11 +7,7 @@ function Navigate() {
       <center>
       <table>
         <tr>
-          <td><Link to="/">Home</Link></td>
-          <td> | </td>
-          <td><Link to="/Brochure">Brochure</Link></td>
-          <td> | </td>
-          <td><Link to="/P3_Parking_Placard.pdf">Parking Placard(Right click and Select "Save link as..")</Link></td>
+          <td class="h4 JJ-font"><Link to="/">Home</Link> | <Link to="/Brochure1">Brochure</Link> | <Link to="/P3_Parking_Placard.pdf">Parking Placard(Right click and Select "Save link as..")</Link></td>
         </tr>
       </table>
       </center>
