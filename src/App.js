@@ -9,6 +9,8 @@ import Brochure3 from "./Pages/Brochure3";
 import Brochure4 from "./Pages/Brochure4";
 import Brochure5 from "./Pages/Brochure5";
 import Brochure6 from "./Pages/Brochure6";
+import Entrance from "./Pages/Entrance";
+
 
 function App() {
   return (
@@ -24,6 +26,7 @@ function App() {
             <Route path="Brochure4" element={<Brochure4 />} />
             <Route path="Brochure5" element={<Brochure5 />} />
             <Route path="Brochure6" element={<Brochure6 />} />
+            <Route path="Entrance" element={<Entrance />} />
           </Route>
         </Routes>
       </BrowserRouter>
